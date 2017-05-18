@@ -108,3 +108,23 @@ APN: Assessor Parcel Number (blocklot, blklot)
 MIPS: Managerial, Information, Professional Services.  (Same as Office)  
 CIE: Cultural, Institutional, Educational  
 PDR: Production, Distribution, Repair  
+
+
+## Setting up Python Environment
+
+First make sure you have python3 and virtualenv installed.
+
+Run this command to make a virtualenv:
+
+`virtualenv --python=$(which python3) VE`
+
+Run this command to enter the virtualenv:
+
+`source VE/bin/activate`
+
+Then run this command to install the dependencies:
+
+```
+brew install gdal --HEAD
+pip install -r requirements.txt
+```
