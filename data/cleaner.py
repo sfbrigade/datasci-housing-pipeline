@@ -32,6 +32,11 @@ def clean_df(df):
     # Standardize best_date
     df.best_date = df.best_date.apply(maybe_format_date)
 
+    # Standardize APN
+    # Some APN values are "APN XXXXXX", some are just "XXXXXXX", standardize this.
+    records_with_apn = df.apn.notnull()
+    df.apn = df.apn[records_with_apn].apply(lambda x: x.split()[-1])
+
     # Standardize Lat/Long
     records_with_location_attribute = df.location.notnull()
     df.x[records_with_location_attribute] = df.location[records_with_location_attribute].apply(get_lat_from_glob)
