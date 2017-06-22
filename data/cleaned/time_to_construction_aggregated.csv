@@ -1,0 +1,627 @@
+apn,neighborhood,time_to_construction,units
+0025017,Russian Hill,1845.0,1.0
+0026030,Russian Hill,939.0,3.0
+0069011,Russian Hill,1310.0,2.0
+0074001,North Beach,676.0,0.0
+0123002,Russian Hill,873.0,7.0
+0130020,Chinatown,716.0,3.0
+0133012,North Beach,289.0,3.0
+0141008,Financial District,1127.0,2.0
+0165021,Financial District,1222.0,75.0
+0185020,Russian Hill,95.0,3.0
+0221020,Nob Hill,432.0,3.0
+0226007,Chinatown,0.0,2.0
+0258033,Financial District,5478.0,0.0
+0269028,Financial District,3159.0,0.0
+0279011,Nob Hill,1692.0,35.0
+0281003,Nob Hill,2706.0,27.0
+0297009,Nob Hill,450.0,17.0
+0300012,Nob Hill,809.0,3.0
+0300015,Nob Hill,478.0,3.0
+0306020,Tenderloin,220.0,81.0
+0323015,Tenderloin,84.0,151.0
+0330004,Tenderloin,470.0,155.0
+0339006,Tenderloin,994.0,9.0
+0345004,Tenderloin,1394.0,174.0
+0349001,Tenderloin,950.0,90.0
+0473008,Marina,702.0,3.0
+0473015A,Marina,458.0,3.0
+0482014,Marina,273.0,3.0
+0500015,Russian Hill,448.0,4.0
+0501023,Russian Hill,432.0,2.0
+0503015,Marina,0.0,2.0
+0510029,Marina,476.0,3.0
+0512026,Marina,792.0,21.0
+0516028A,Marina,335.0,4.0
+0519029,Marina,341.0,2.0
+0527002,Marina,1199.0,27.0
+0531022,Marina,208.0,1.0
+0557019,Marina,396.0,1.0
+0570011,Pacific Heights,1477.0,34.0
+0595013,Russian Hill,892.0,38.0
+0596024,Russian Hill,390.0,39.0
+0604015,Pacific Heights,758.0,1.0
+0619012,Russian Hill,2681.0,35.0
+0620006,Russian Hill,993.0,28.0
+0629037,Pacific Heights,861.0,77.0
+0647007,Western Addition,2701.0,260.0
+0660007,Pacific Heights,0.0,2.0
+0660027,Pacific Heights,0.0,3.0
+0668012,Nob Hill,208.0,35.0
+0671006,Western Addition,2456.0,69.0
+0686040,Japantown,546.0,4.0
+0691008,Nob Hill,392.0,107.0
+0694005,Tenderloin,1863.0,0.0
+0753010,Western Addition,393.0,3.0
+0754012,Western Addition,928.0,4.0
+0757025,Western Addition,2654.0,297.0
+0757027,Western Addition,639.0,98.0
+0766001,Tenderloin,0.0,0.0
+0768013,Western Addition,1800.0,100.0
+0776035,Western Addition,826.0,3.0
+0785029,Hayes Valley,1241.0,75.0
+0793009,Hayes Valley,172.0,2.0
+0794015,Hayes Valley,0.0,136.0
+0794028,Hayes Valley,1062.0,139.0
+0797019,Hayes Valley,,1.0
+0807010,Hayes Valley,1833.0,90.0
+0807022,Hayes Valley,393.0,1.0
+0808036,Hayes Valley,596.0,63.0
+0808039,Hayes Valley,1352.0,41.0
+0811002,Tenderloin,1329.0,163.0
+0814020,Tenderloin,1095.0,418.0
+0816003,Hayes Valley,114.0,0.0
+0817069,Hayes Valley,189.0,6.0
+0818020,Hayes Valley,2200.0,2.0
+0818048,Hayes Valley,2274.0,2.0
+0818049,Hayes Valley,736.0,2.0
+0819011,Hayes Valley,770.0,3.0
+0829023,Hayes Valley,853.0,1.0
+0831023,Mission,1246.0,182.0
+0837003,Hayes Valley,2307.0,35.0
+0839025,Hayes Valley,722.0,16.0
+0843016,Hayes Valley,934.0,12.0
+0854001,Hayes Valley,650.0,24.0
+0855011,Hayes Valley,2181.0,49.0
+0857001,Hayes Valley,2983.0,450.0
+0857001A,Hayes Valley,925.0,191.0
+0859013,Hayes Valley,197.0,2.0
+0861034,Haight Ashbury,256.0,3.0
+0870003,Hayes Valley,1300.0,116.0
+0871016,Hayes Valley,2232.0,113.0
+0872005,Hayes Valley,639.0,115.0
+0913011,Marina,249.0,3.0
+0919007D,Marina,439.0,3.0
+0926008,Marina,869.0,2.0
+0936020,Marina,349.0,5.0
+0943003B,Marina,0.0,1.0
+0973031,Presidio Heights,593.0,1.0
+0997004,Presidio Heights,217.0,1.0
+1028028,Pacific Heights,109.0,12.0
+1051034,Pacific Heights,600.0,0.0
+1052024,Pacific Heights,2712.0,84.0
+1066028,Presidio Heights,0.0,8.0
+1067028,Presidio Heights,463.0,2.0
+1068004,Presidio Heights,523.0,1.0
+1073008,Presidio Heights,0.0,1.0
+1073013,Presidio Heights,1789.0,83.0
+1086006,Lone Mountain/USF,970.0,3.0
+1088022,Lone Mountain/USF,577.0,2.0
+1101007,Western Addition,915.0,32.0
+1127007,Western Addition,0.0,19.0
+1127064,Western Addition,199.0,19.0
+1145003,Lone Mountain/USF,1326.0,0.0
+1150007,Lone Mountain/USF,600.0,3.0
+1152017,Western Addition,2230.0,3.0
+1152018,Western Addition,1224.0,3.0
+1153020,Western Addition,893.0,7.0
+1154023,Western Addition,0.0,2.0
+1158037,Lone Mountain/USF,353.0,2.0
+1179024A,Western Addition,780.0,4.0
+1182012,Hayes Valley,217.0,3.0
+1185026,Lone Mountain/USF,630.0,3.0
+1198028,Lone Mountain/USF,0.0,2.0
+1219011,Haight Ashbury,0.0,4.0
+1222043,Haight Ashbury,623.0,1.0
+1223003,Haight Ashbury,184.0,1.0
+1227003,Haight Ashbury,672.0,2.0
+1252046,Haight Ashbury,132.0,2.0
+1260035,Haight Ashbury,497.0,2.0
+1265009,Inner Sunset,0.0,3.0
+1269167,Haight Ashbury,966.0,1.0
+1270053,Haight Ashbury,1320.0,2.0
+1279083,Haight Ashbury,202.0,2.0
+1288005,Haight Ashbury,48.0,2.0
+130020,Chinatown,517.0,3.0
+1332049,Seacliff,868.0,2.0
+1334040,Seacliff,0.0,1.0
+1364048,Inner Richmond,462.0,6.0
+1371039,Inner Richmond,938.0,2.0
+1386015,Outer Richmond,728.0,3.0
+1405045,Outer Richmond,408.0,2.0
+1411022,Outer Richmond,0.0,2.0
+1412019,Outer Richmond,766.0,3.0
+1417031,Outer Richmond,231.0,3.0
+1453033,Outer Richmond,966.0,1.0
+1463005,Outer Richmond,851.0,2.0
+1464013B,Outer Richmond,367.0,2.0
+1464014,Outer Richmond,1436.0,2.0
+1505027,Outer Richmond,1638.0,2.0
+1507038,Outer Richmond,824.0,2.0
+1510022,Outer Richmond,668.0,2.0
+1510025,Outer Richmond,371.0,2.0
+1511034,Outer Richmond,657.0,2.0
+1517030,Outer Richmond,2121.0,3.0
+1550029,Inner Richmond,42.0,3.0
+1564023,Outer Richmond,423.0,2.0
+1565006A,Outer Richmond,1866.0,2.0
+1568012,Outer Richmond,429.0,2.0
+1569002,Outer Richmond,385.0,2.0
+1570003C,Outer Richmond,586.0,2.0
+1601001,Outer Richmond,0.0,2.0
+1615003,Outer Richmond,670.0,2.0
+1622025,Outer Richmond,689.0,2.0
+1640051,Inner Richmond,1165.0,6.0
+1641026,Inner Richmond,361.0,2.0
+1642036,Inner Richmond,2933.0,2.0
+1659030,Outer Richmond,763.0,2.0
+1684002I,Outer Richmond,0.0,2.0
+1686016,Outer Richmond,264.0,2.0
+1686033,Outer Richmond,0.0,1.0
+1707047,Sunset/Parkside,0.0,1.0
+1710006,Sunset/Parkside,468.0,1.0
+1729012,Sunset/Parkside,1024.0,2.0
+1731014,Sunset/Parkside,524.0,2.0
+1736033,Inner Sunset,1227.0,2.0
+1742043,Inner Sunset,1071.0,15.0
+1775044,Sunset/Parkside,452.0,2.0
+1789022,Sunset/Parkside,291.0,2.0
+1800010A,Sunset/Parkside,0.0,2.0
+1805006,Sunset/Parkside,880.0,2.0
+1811031,Sunset/Parkside,174.0,2.0
+1854016A,Inner Sunset,269.0,2.0
+1857036,Inner Sunset,672.0,2.0
+1857037,Inner Sunset,676.0,2.0
+1893038,Sunset/Parkside,589.0,1.0
+1901012,Sunset/Parkside,462.0,2.0
+1932022,Inner Sunset,358.0,2.0
+1933041,Inner Sunset,719.0,2.0
+2038A018,Inner Sunset,948.0,1.0
+2038A019,Inner Sunset,923.0,1.0
+2040001,Inner Sunset,312.0,6.0
+2094005,Sunset/Parkside,0.0,0.0
+2117001,Inner Sunset,414.0,2.0
+2162031,Sunset/Parkside,402.0,2.0
+2184034,Sunset/Parkside,299.0,2.0
+2205035,West of Twin Peaks,593.0,1.0
+226007,Chinatown,0.0,2.0
+2317016G,Sunset/Parkside,222.0,2.0
+2362019,Sunset/Parkside,671.0,3.0
+2381027A,Sunset/Parkside,329.0,2.0
+2393042,Sunset/Parkside,349.0,2.0
+2406037,Sunset/Parkside,579.0,1.0
+2416002H,West of Twin Peaks,287.0,1.0
+2451002D,Sunset/Parkside,329.0,2.0
+2476034,Sunset/Parkside,275.0,2.0
+25017,Russian Hill,363.0,1.0
+2515001,Sunset/Parkside,2693.0,56.0
+258033,Financial District,395.0,0.0
+26030,Russian Hill,0.0,3.0
+2620119,Castro/Upper Market,1089.0,2.0
+2625007A,Castro/Upper Market,1120.0,2.0
+2628026,Castro/Upper Market,1601.0,2.0
+2657004,Castro/Upper Market,726.0,1.0
+2688072,Inner Sunset,1502.0,2.0
+269028,Financial District,500.0,0.0
+2691019,Castro/Upper Market,618.0,3.0
+2700012,Castro/Upper Market,1369.0,2.0
+2706035,Twin Peaks,576.0,1.0
+2716033,Twin Peaks,610.0,1.0
+2716056,Castro/Upper Market,0.0,2.0
+2750035,Castro/Upper Market,310.0,2.0
+2778013,Twin Peaks,1094.0,2.0
+2799013,Twin Peaks,0.0,3.0
+2802006,Noe Valley,307.0,1.0
+2804041,Noe Valley,720.0,2.0
+281003,Nob Hill,21.0,27.0
+2821010,Twin Peaks,1110.0,1.0
+2821023,Twin Peaks,1110.0,1.0
+2829010,Noe Valley,1115.0,1.0
+2830004,Noe Valley,231.0,2.0
+2861011,West of Twin Peaks,1910.0,1.0
+2864029A,West of Twin Peaks,617.0,1.0
+2901C001,West of Twin Peaks,219.0,0.0
+2923008,West of Twin Peaks,0.0,1.0
+2936A026,West of Twin Peaks,329.0,2.0
+297009,Nob Hill,0.0,17.0
+2979A021A,West of Twin Peaks,1411.0,0.0
+2979A029,West of Twin Peaks,527.0,0.0
+2987A036,West of Twin Peaks,716.0,1.0
+2993088,West of Twin Peaks,804.0,1.0
+300015,Nob Hill,296.0,3.0
+3027A001,West of Twin Peaks,842.0,3.0
+3094055,West of Twin Peaks,592.0,2.0
+3158033,West of Twin Peaks,462.0,2.0
+3180001,West of Twin Peaks,1516.0,71.0
+3185023,West of Twin Peaks,1404.0,1.0
+3196010,West of Twin Peaks,223.0,
+3197010,West of Twin Peaks,2664.0,13.0
+3211009,Outer Mission,10.0,5.0
+3211010A,Outer Mission,2709.0,6.0
+339006,Tenderloin,0.0,9.0
+3507039,South of Market,956.0,190.0
+3507041,South of Market,0.0,754.0
+3507042,South of Market,2155.0,167.0
+3509005,South of Market,1091.0,10.0
+3509043,South of Market,1279.0,180.0
+3510001,South of Market,2442.0,156.0
+3513008,Mission,122.0,76.0
+3516005,Mission,666.0,16.0
+3518004,South of Market,22.0,1.0
+3518006,South of Market,2190.0,15.0
+3518007,South of Market,0.0,2.0
+3526005,South of Market,944.0,12.0
+3532091,Mission,1520.0,0.0
+3533165,Mission,1136.0,3.0
+3534069,Mission,1373.0,47.0
+3535001,Castro/Upper Market,607.0,82.0
+3537078,Castro/Upper Market,611.0,3.0
+3538096,Castro/Upper Market,658.0,3.0
+3540023,Castro/Upper Market,0.0,3.0
+3542039,Castro/Upper Market,1170.0,
+3543011,Castro/Upper Market,698.0,88.0
+3547002A,Mission,432.0,194.0
+3548001,Mission,1162.0,0.0
+3548032,Mission,1302.0,39.0
+3549064,Mission,951.0,23.0
+3553054,Mission,1449.0,40.0
+3554027,Mission,119.0,16.0
+3555036,Mission,1252.0,8.0
+3555056,Mission,517.0,52.0
+3558029,Castro/Upper Market,548.0,3.0
+3568068,Mission,674.0,3.0
+3575063,Mission,2134.0,3.0
+3575070,Mission,937.0,27.0
+3576018,Mission,742.0,3.0
+3576039,Mission,1375.0,3.0
+3576090,Mission,924.0,16.0
+3581012,Castro/Upper Market,714.0,2.0
+3583082,Castro/Upper Market,1906.0,2.0
+3584007,Castro/Upper Market,752.0,2.0
+3594009,Mission,133.0,4.0
+3596017A,Mission,0.0,2.0
+3596059,Mission,296.0,2.0
+3596113,Mission,1377.0,18.0
+3598068,Mission,976.0,3.0
+3610032,Mission,2237.0,2.0
+3612055,Mission,1515.0,3.0
+3613018B,Mission,1947.0,3.0
+3616007,Mission,603.0,114.0
+3617008,Mission,1873.0,15.0
+3618071,Mission,6.0,3.0
+3619039,Noe Valley,333.0,2.0
+3621030,Noe Valley,202.0,2.0
+3638018,Mission,1412.0,3.0
+3639002,Mission,596.0,20.0
+3639004A,Mission,722.0,3.0
+3641076,Mission,1047.0,2.0
+3650028,Noe Valley,423.0,3.0
+3651017,Noe Valley,1041.0,4.0
+3701064,South of Market,839.0,273.0
+3702046,South of Market,1038.0,
+3702052,South of Market,433.0,418.0
+3702308,South of Market,129.0,550.0
+3702391,South of Market,,550.0
+3703012,South of Market,1266.0,67.0
+3703086,South of Market,3711.0,47.0
+3704015,South of Market,961.0,
+3704022,South of Market,375.0,0.0
+3704069,South of Market,0.0,100.0
+3704071,South of Market,1957.0,0.0
+3705039,South of Market,175.0,116.0
+3710017,Financial District,1381.0,0.0
+3717019,Financial District,98.0,0.0
+3718025,Financial District,308.0,0.0
+3719010,Financial District,3240.0,140.0
+3720001,Financial District,2808.0,0.0
+3721122,Financial District,932.0,0.0
+3722027,Financial District,1435.0,0.0
+3722367,Financial District,391.0,0.0
+3723115,South of Market,1050.0,
+3725101,South of Market,1473.0,55.0
+3726047,South of Market,177.0,14.0
+3727035,South of Market,713.0,3.0
+3731001,South of Market,1856.0,67.0
+3731003,South of Market,952.0,76.0
+3731119,South of Market,649.0,1.0
+3732008,South of Market,1034.0,182.0
+3732009,South of Market,1164.0,282.0
+3732071,South of Market,3725.0,25.0
+3735063,Financial District,2804.0,0.0
+3736074,Financial District,1261.0,403.0
+3736078A,Financial District,610.0,418.0
+3736114,Financial District,650.0,0.0
+3738004,Financial District,905.0,479.0
+3746001,Financial District,1344.0,806.0
+3747019,Financial District,366.0,88.0
+3747320,Financial District,3443.0,452.0
+3749059,Financial District,1764.0,320.0
+3749064,Financial District,559.0,120.0
+3752019,South of Market,2881.0,26.0
+3753021,South of Market,132.0,4.0
+3753076,South of Market,881.0,3.0
+3753096,South of Market,738.0,22.0
+3753106,South of Market,1042.0,115.0
+3753314,South of Market,86.0,15.0
+3755096,South of Market,816.0,6.0
+3755101,South of Market,470.0,2.0
+3756003,South of Market,3107.0,416.0
+3756025,South of Market,2624.0,3.0
+3763017,Financial District,1099.0,0.0
+3765015,Financial District,3219.0,340.0
+3766009,Financial District,125.0,308.0
+3774026,Financial District,1274.0,
+3775031,Financial District,1310.0,2.0
+3776092,South of Market,2483.0,19.0
+3783001,South of Market,1399.0,
+3786018,South of Market,900.0,0.0
+3788039,Financial District,2468.0,0.0
+3789003,Financial District,1503.0,74.0
+3794002A,Mission Bay,98.0,14.0
+3794024,Mission Bay,1813.0,132.0
+3833001,Mission Bay,1329.0,470.0
+3833002,Mission Bay,1575.0,393.0
+3911001,Mission Bay,1386.0,560.0
+3962008,Mission,1266.0,75.0
+3965001,Mission,1166.0,12.0
+3973002C,Mission,1196.0,84.0
+3980007,Potrero Hill,772.0,20.0
+3985024,Potrero Hill,946.0,9.0
+3994001B,Potrero Hill,0.0,97.0
+4003006,Potrero Hill,897.0,3.0
+4004024,Potrero Hill,1387.0,3.0
+4004034,Potrero Hill,1096.0,3.0
+4009008A,Potrero Hill,0.0,2.0
+4022022,Mission,1258.0,4.0
+4040025,Potrero Hill,1010.0,2.0
+4041009,Potrero Hill,814.0,121.0
+4045002,Potrero Hill,918.0,106.0
+4058008,Potrero Hill,494.0,16.0
+4058010,Potrero Hill,127.0,196.0
+4067009A,Potrero Hill,23.0,2.0
+4084018,Mission,642.0,1.0
+4085010,Mission,404.0,2.0
+4085026,Mission,282.0,2.0
+4088030,Mission,363.0,2.0
+4093007,Potrero Hill,1022.0,2.0
+4094024,Potrero Hill,1158.0,3.0
+4096005,Potrero Hill,0.0,2.0
+4102026,Potrero Hill,1055.0,94.0
+4102052,Potrero Hill,0.0,2.0
+4142030,Mission,424.0,2.0
+4145012,Mission,852.0,3.0
+4145029,Mission,1038.0,2.0
+4146019,Mission,1086.0,3.0
+4149019,Mission,731.0,2.0
+4152016,Mission,0.0,2.0
+4152046,Mission,0.0,2.0
+4154001,Mission,1435.0,0.0
+4158002,Potrero Hill,211.0,2.0
+4172006,Potrero Hill,1054.0,1.0
+4172022,Potrero Hill,1079.0,300.0
+4172053,Potrero Hill,1871.0,8.0
+4210013,Mission,1255.0,2.0
+4219003,Potrero Hill,0.0,1.0
+4228158,Potrero Hill,2357.0,81.0
+4229004,Potrero Hill,286.0,0.0
+4264007,Mission,719.0,3.0
+4266013,Mission,0.0,3.0
+4271008,Mission,711.0,2.0
+4271034,Mission,652.0,2.0
+4274001,Mission,683.0,3.0
+4282A023,Potrero Hill,881.0,2.0
+4352007,Bayview Hunters Point,3090.0,0.0
+4591C001,Bayview Hunters Point,108.0,463.0
+4591C042,Bayview Hunters Point,700.0,63.0
+4591C045,Bayview Hunters Point,887.0,9.0
+4591C046,Bayview Hunters Point,885.0,9.0
+4591C057,Unknown,909.0,9.0
+4591C059,Unknown,909.0,9.0
+4591C068,Bayview Hunters Point,888.0,9.0
+4591C069,Bayview Hunters Point,1145.0,12.0
+4591C070,Bayview Hunters Point,889.0,9.0
+4591C082,Bayview Hunters Point,371.0,36.0
+4591C093,Bayview Hunters Point,555.0,25.0
+4591C094,Bayview Hunters Point,1043.0,12.0
+4591C095,Bayview Hunters Point,969.0,35.0
+4591C098,Bayview Hunters Point,1137.0,12.0
+4591C099,Bayview Hunters Point,1004.0,34.0
+4624004,Bayview Hunters Point,405.0,52.0
+4788017,Bayview Hunters Point,252.0,2.0
+4884025,Bayview Hunters Point,803.0,10500.0
+4912002,Bayview Hunters Point,0.0,2.0
+4976019,Bayview Hunters Point,0.0,1.0
+4991277,Bayview Hunters Point,0.0,198.0
+512026,Marina,477.0,21.0
+519029,Marina,0.0,2.0
+5253001,Bayview Hunters Point,1091.0,0.0
+5258026,Bayview Hunters Point,567.0,1.0
+5258027,Bayview Hunters Point,570.0,1.0
+5260002,Bayview Hunters Point,354.0,7.0
+5260003,Bayview Hunters Point,354.0,7.0
+5279033,Bayview Hunters Point,0.0,0.0
+5281003,Bayview Hunters Point,531.0,0.0
+5297023,Bayview Hunters Point,430.0,2.0
+5306025,Bayview Hunters Point,1014.0,2.0
+5312018,Bayview Hunters Point,1697.0,2.0
+5319028,Bayview Hunters Point,316.0,2.0
+5319037,Bayview Hunters Point,803.0,2.0
+5327019,Bayview Hunters Point,360.0,2.0
+5327038,Bayview Hunters Point,1353.0,2.0
+5328053,Bayview Hunters Point,217.0,2.0
+5338018,Bayview Hunters Point,594.0,2.0
+5339007,Bayview Hunters Point,292.0,0.0
+5350042,Bayview Hunters Point,,
+5355010,Bayview Hunters Point,439.0,1.0
+5379029,Bayview Hunters Point,137.0,1.0
+5403035,Bayview Hunters Point,134.0,2.0
+5405023,Bayview Hunters Point,1431.0,1.0
+5410008,Bayview Hunters Point,641.0,2.0
+5419005,Bayview Hunters Point,0.0,0.0
+5426030,Bayview Hunters Point,525.0,1.0
+5431A001,Bayview Hunters Point,1087.0,271.0
+5457030,Portola,0.0,2.0
+5476009,Bayview Hunters Point,919.0,73.0
+5476014,Bayview Hunters Point,1491.0,1.0
+5504001H,Bernal Heights,0.0,2.0
+5512029,Bernal Heights,1541.0,2.0
+5512031,Bernal Heights,1541.0,2.0
+5518023,Bernal Heights,148.0,2.0
+5529012,Bernal Heights,662.0,1.0
+5556019,Bernal Heights,1437.0,1.0
+5577009,Bernal Heights,1771.0,3.0
+5577010,Bernal Heights,3406.0,1.0
+5577011,Bernal Heights,2294.0,1.0
+5597A001,Bayview Hunters Point,973.0,0.0
+5598006,Bayview Hunters Point,1783.0,0.0
+5610029A,Bernal Heights,0.0,2.0
+5617014,Bernal Heights,1440.0,2.0
+5619057,Bernal Heights,562.0,1.0
+5628046,Bernal Heights,108.0,1.0
+5634014,Bernal Heights,881.0,2.0
+5673003,Bernal Heights,466.0,3.0
+570011,Pacific Heights,907.0,34.0
+5825007,Bernal Heights,1127.0,6.0
+5825008,Bernal Heights,1653.0,2.0
+5826002,Bernal Heights,1886.0,2.0
+5859040,Portola,1067.0,1.0
+5864009,Portola,194.0,2.0
+5880023,Portola,0.0,2.0
+5926021,Portola,1765.0,2.0
+5926022,Portola,1319.0,1.0
+5938049,Excelsior,325.0,2.0
+5943008,Excelsior,947.0,80.0
+5943050,Excelsior,999.0,1.0
+5943051,Excelsior,167.0,1.0
+5948026A,Excelsior,637.0,1.0
+5948026B,Excelsior,619.0,1.0
+5963042,Excelsior,1236.0,1.0
+5972040,Portola,776.0,1.0
+6022014,Excelsior,1156.0,2.0
+6034014,Portola,318.0,1.0
+6044003,Portola,178.0,2.0
+6080027,Excelsior,510.0,2.0
+6086012C,Excelsior,983.0,2.0
+6090004,Excelsior,1106.0,1.0
+6154012,Portola,0.0,1.0
+6176011,Visitacion Valley,2015.0,1.0
+619012,Russian Hill,390.0,35.0
+6202046,Visitacion Valley,461.0,1.0
+6233005,Visitacion Valley,608.0,2.0
+6250036,Visitacion Valley,3166.0,4.0
+6255006,Visitacion Valley,0.0,1.0
+6272018,Excelsior,0.0,2.0
+629037,Pacific Heights,563.0,77.0
+6345007,Excelsior,458.0,1.0
+6349021,Excelsior,1485.0,1.0
+6415022,Excelsior,347.0,1.0
+6439019,Excelsior,0.0,0.0
+6472007,Excelsior,379.0,1.0
+6473040,Excelsior,577.0,20.0
+6484024,Excelsior,192.0,2.0
+6503020,Noe Valley,896.0,2.0
+6506034,Noe Valley,372.0,5.0
+6512016,Mission,425.0,2.0
+6517022,Mission,1164.0,4.0
+6520036,Mission,1188.0,9.0
+6529012,Mission,0.0,11.0
+6531022,Mission,1707.0,4.0
+6540021,Noe Valley,966.0,2.0
+6549021,Noe Valley,1505.0,2.0
+6549031,Noe Valley,523.0,2.0
+6553024,Noe Valley,529.0,2.0
+6567013,Mission,392.0,2.0
+6581060,Noe Valley,1901.0,2.0
+6583010,Noe Valley,609.0,2.0
+6592016,Noe Valley,0.0,2.0
+6592034,Noe Valley,0.0,2.0
+6593006,Noe Valley,0.0,2.0
+6602010,Noe Valley,612.0,2.0
+6604011,Noe Valley,1009.0,1.0
+6604039,Noe Valley,1597.0,1.0
+6612026,Noe Valley,847.0,1.0
+6619022,Noe Valley,310.0,2.0
+6620014,Noe Valley,1616.0,2.0
+6621030,Noe Valley,3150.0,1.0
+6630031,Noe Valley,0.0,2.0
+6634026,Noe Valley,1011.0,2.0
+6656005,Glen Park,468.0,2.0
+6659006,Glen Park,644.0,2.0
+6662007,Glen Park,515.0,2.0
+6684022,Glen Park,733.0,1.0
+6706027,West of Twin Peaks,184.0,1.0
+6706043,West of Twin Peaks,449.0,1.0
+6706053,West of Twin Peaks,274.0,1.0
+671006,Western Addition,406.0,69.0
+6727038,Glen Park,113.0,1.0
+6771032,West of Twin Peaks,1968.0,2.0
+6774012,West of Twin Peaks,684.0,1.0
+69011,Russian Hill,350.0,2.0
+6942046,Oceanview/Merced/Ingleside,328.0,2.0
+6942054,Oceanview/Merced/Ingleside,1162.0,2.0
+6944044,Oceanview/Merced/Ingleside,327.0,25.0
+6959030,Outer Mission,735.0,1.0
+6968002,Outer Mission,67.0,3.0
+7016023,Oceanview/Merced/Ingleside,635.0,1.0
+7099009,Outer Mission,819.0,2.0
+7104049,Oceanview/Merced/Ingleside,0.0,1.0
+7106058,Oceanview/Merced/Ingleside,2285.0,2.0
+7106059,Oceanview/Merced/Ingleside,2285.0,2.0
+7107019,Oceanview/Merced/Ingleside,549.0,2.0
+7107023,Oceanview/Merced/Ingleside,424.0,2.0
+7108033,Oceanview/Merced/Ingleside,1611.0,2.0
+7113022,Oceanview/Merced/Ingleside,1123.0,4.0
+7114035,Oceanview/Merced/Ingleside,910.0,1.0
+7135048,Oceanview/Merced/Ingleside,1804.0,1.0
+7148040,Oceanview/Merced/Ingleside,2105.0,28.0
+7173011,Outer Mission,704.0,1.0
+7282005,Lakeshore,438.0,722.0
+7295014,Lakeshore,269.0,0.0
+7331003,Lakeshore,1737.0,210.0
+7331005,Lakeshore,1141.0,164.0
+7332003,Lakeshore,317.0,2.0
+7332005,Lakeshore,652.0,11.0
+74001,North Beach,0.0,0.0
+7520034,Glen Park,390.0,1.0
+7535102,Noe Valley,1104.0,4.0
+754012,Western Addition,791.0,4.0
+7551017,Glen Park,395.0,1.0
+7552003,Glen Park,561.0,1.0
+7554007,Glen Park,0.0,1.0
+757025,Western Addition,700.0,98.0
+776035,Western Addition,519.0,3.0
+785029,Hayes Valley,498.0,69.0
+794028,Hayes Valley,428.0,139.0
+797019,Hayes Valley,0.0,1.0
+808039,Hayes Valley,338.0,41.0
+811002,Tenderloin,423.0,162.0
+818020,Hayes Valley,1009.0,2.0
+818048,Hayes Valley,134.0,2.0
+818049,Hayes Valley,134.0,2.0
+819011,Hayes Valley,770.0,3.0
+829023,Hayes Valley,425.0,1.0
+831023,Hayes Valley,204.0,182.0
+837003,Hayes Valley,1989.0,35.0
+857001,Hayes Valley,336.0,450.0
+8704004,Mission Bay,379.0,129.0
+8709004,Mission Bay,2718.0,0.0
+8710007,Mission Bay,834.0,263.0
+8711014,Mission Bay,1199.0,150.0
+8711023,Mission Bay,645.0,315.0
+8711031,Mission Bay,58.0,200.0
+8713001,Mission Bay,733.0,273.0
+8715004,Mission Bay,178.0,198.0
+8719002,Mission Bay,510.0,
+8724001,Potrero Hill,0.0,
+8727005,Potrero Hill,544.0,0.0
+926008,Marina,351.0,2.0
