@@ -32,11 +32,11 @@ key,value
 "PDRNET",pdrnet
 "RETNET",retnet
 "VISITNET",visitnet
-"FILEDATE",filedate
+"FILEDATE",firstfiled
 "LANDUSE",landuse
 "StandardAddress",standardaddress
 "alias",alias
-"Entitlement",entitlement
+"Entitlement",entitled
 "sort",sort
 "sizecat",sizecat
 "AFFORDABLE",affordable
@@ -47,4 +47,4 @@ key,value
 "HEIGHTLIMIT",heightlimit
 "SPONSOR",sponsor
 "CONTACT",contact
-"Geography",geography
+"Geography",location

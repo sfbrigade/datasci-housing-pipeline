@@ -27,7 +27,7 @@ key,value
 "PDRNET",pdrnet
 "RETNET",retnet
 "VISITNET",visitnet
-"Entitlement",entitlement
+"Entitlement",entitled
 "Alias",alias
 "ZONING",districtname
 "ZONING_SIMPLIFY",zoning_sim
@@ -37,7 +37,7 @@ key,value
 "SUPEDIST",supdist
 "SOURCE",source
 "PLANNER",planner
-"FILEDATE",filedate
+"FILEDATE",firstfiled
 "SPONSOR",sponsor
 "CONTACT",contact
 "CONTACTPH",contactph
@@ -45,4 +45,4 @@ key,value
 "DECDATE",decdate
 "ACTION",action
 "ACTDATE",actdate
-"GEOGRAPHY",geography
+"GEOGRAPHY",location

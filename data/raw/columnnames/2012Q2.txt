@@ -23,7 +23,7 @@ key,value
 "DBI Filed",dbi_filed
 "FirstFiled",firstfiled
 "LANDUSE",landuse
-"EntitlementStatus",entitlementstatus
+"EntitlementStatus",entitled
 "sort",sort
 "Net Added Units",net_added_units
 "Net Added SF",net_added_sf
@@ -44,3 +44,6 @@ key,value
 "CONTACTCITY",contactcity
 "CONTACTADD",contactadd
 "Location 1",location
+"Net Added Units",unitsnet
+
+

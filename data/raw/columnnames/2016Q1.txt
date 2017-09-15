@@ -12,7 +12,7 @@ key,value
 "COST",cost
 "PROPUSE",propuse
 "APN",apn
-"EntitlementStatus",entitlementstatus
+"EntitlementStatus",entitled
 "NEIGHBORHOOD",neighborhood
 "PLANAREA",planarea
 "PLANDISTRICT",district

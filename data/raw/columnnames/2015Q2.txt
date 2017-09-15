@@ -15,7 +15,7 @@ key,value
 "UNITSNET",unitsnet
 "AFFORDABLE",affordable
 "AFFORDABLENET",affordablenet
-"EntitlementStatus",entitlementstatus
+"EntitlementStatus",entitled
 "PARKING",parking
 "PARKINGNET",parkingnet
 "TOTAL_GSF",total_gsf
@@ -32,7 +32,7 @@ key,value
 "RETNET",retnet
 "VISIT",visit
 "VISITNET",visitnet
-"FILEDATE",filedate
+"FILEDATE",firstfiled
 "PLANNER",planner
 "SPONSOR",sponsor
 "CONTACT",contact
@@ -51,4 +51,4 @@ key,value
 "HEIGHT_LIMIT",height_lim
 "X",x
 "Y",y
-"geography",geography
+"geography",location
