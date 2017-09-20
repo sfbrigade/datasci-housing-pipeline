@@ -25,6 +25,7 @@ These DSWG members are contributors to this project, and how to get in touch wit
 | Geoffrey Pay | @gpay |
 | Angelique DeCastro | @angeliquedecastro |
 | Caressa Cunningham | @caressalc27 |
+| Brian Goggin | @bgoggin |
 
 ## Working Plan/Current Priorities
 
