@@ -8,7 +8,7 @@ key,value
 "Alias",alias
 "CASENO",caseno
 "DESCRIPT",descript
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PROPUSE",propuse
 "DBIDESC",dbidesc
 "UNITS",units

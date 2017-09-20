@@ -6,7 +6,7 @@ key,value
 "LANDUSE",landuse
 "CASENO",caseno
 "PLNDESC",plndesc
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "DBIDESC",dbidesc
 "FirstFiled",firstfiled
 "COST",cost

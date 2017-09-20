@@ -3,7 +3,7 @@ key,value
 "BESTDATE",best_date
 "NAMEADDR",address
 "CASENO",caseno
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PROPUSE",propuse
 "BLKLOT",apn
 "LANDUSE",landuse

@@ -18,7 +18,7 @@ key,value
 "Ret, Ent",ret_ent
 "Visitor",visitor
 "Planning ID",planning_id
-"DBI Permit ID",dbi_permit_id
+"DBI Permit ID",dbi_permit
 "Planning Filed",planning_filed
 "DBI Filed",dbi_filed
 "FirstFiled",firstfiled

@@ -11,7 +11,7 @@ key,value
 "DESCRIPT",descript
 "PLN_REVIEW",pln_review
 "PLN_REVIEWDATE",pln_reviewdate
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PROPUSE",propuse
 "DBIDESC",dbidesc
 "DBI_ACTION",dbi_action

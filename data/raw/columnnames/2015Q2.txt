@@ -4,7 +4,7 @@ key,value
 "BESTSTAT",best_stat
 "BESTDATE",best_date
 "CASENO",caseno
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PROPUSE",propuse
 "NEW_REHAB",new_rehab
 "Alias",alias

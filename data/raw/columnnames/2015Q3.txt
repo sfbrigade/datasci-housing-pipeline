@@ -4,7 +4,7 @@ key,value
 "BESTDATE",best_date
 "Alias",alias
 "CASENO",caseno
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PLNDESC",plndesc
 "DBIDESC",dbidesc
 "PROPUSE",propuse
