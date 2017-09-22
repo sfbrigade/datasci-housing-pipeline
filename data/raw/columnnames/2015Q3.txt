@@ -10,8 +10,8 @@ key,value
 "PROPUSE",propuse
 "UNITS",units
 "UNITSNET",unitsnet
-"AFFORDABLE",affordable
-"AFFORDABLENET",affordablenet
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
 "AFFORDABLE_DEC",aff_dec
 "TOTAL_GSF",total_gsf
 "NET_GSF",net_gsf

@@ -39,7 +39,7 @@ key,value
 "Entitlement",entitled
 "sort",sort
 "sizecat",sizecat
-"AFFORDABLE",affordable
+"AFFORDABLE",aff
 "AFFNET",affnet
 "zoning_gen",zoning_generalized
 "ZONING_SIM",zoning_sim

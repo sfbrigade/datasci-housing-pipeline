@@ -13,8 +13,8 @@ key,value
 "DBIDESC",dbidesc
 "UNITS",units
 "UNITSNET",unitsnet
-"AFFORDABLE",affordable
-"AFFORDABLENET",affordab_1
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
 "TOTAL_GSF",total_gsf
 "NET_GSF",net_gsf
 "CIE",cie

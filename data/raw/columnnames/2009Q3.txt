@@ -1,0 +1,38 @@
+key,value
+"Block Lot",apn
+"Address",address
+"Planning Neighborhood",neighborhood
+"Best Stat",best_stat
+"Best Date",best_date
+"Units",units
+"Units Net",unitsnet
+"Planning Project Description",planning_project_description
+"DBI Project Description",dbi_project_description
+"Zoning_Generalized",zoning_generalized
+"Zoning_Simplified",zoning_simplified
+"newtaz",taz
+"Total GSF (Commercial)",total_gsf_commercial
+"MIPS",office
+"CIE",cult_inst_educ
+"MED",medical
+"PDR",prod_dist_rep
+"RET",ret_ent
+"VISIT",visitor
+"Net GSF (Commercial)",net_gsf
+"CIENET",net_cult_inst_educ
+"MEDNET",net_medical
+"MIPSNET",net_office
+"PDRNET",net_prod_dist_rep
+"RETNET",net_ret_ent
+"VISITNET",net_visitor
+"CASENO",caseno
+"BPAPPLNO",dbi_permit
+"Planning Filed",planning_filed
+"DBI Filed",dbi_filed
+"HEIGHTLIMIT",heightlimit
+"ZONING",zoning
+"FirstFiled",firstfiled
+"Longitude",x
+"Latitude",y
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet

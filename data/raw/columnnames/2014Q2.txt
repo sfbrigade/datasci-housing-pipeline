@@ -36,8 +36,8 @@ key,value
 "Net Ret, Ent",net_ret_ent
 "Net Visitor",net_visitor
 "PlanningDistrictsCombo",planningdistrictscombo
-"AFFORDABLE",affordable
-"AFFORDABLENET",affordablenet
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
 "EntitlementStatus",entitled
 "Sponsor Firm",sponsor_firm
 "Sponsor Name",sponsor_name
