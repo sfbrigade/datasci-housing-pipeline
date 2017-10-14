@@ -39,7 +39,7 @@ key,value
 "CONTACT",fullname
 "CONTACTPH",contactphone
 "NEIGHBORHOOD",neighborhood
-"ZONING_SIM",zoning
+"ZONING_SIM",zoning_simplified
 "ZONING_GEN",zoning_gen
 "ZONING_DISTRICT",districtname
 "HEIGHT_DISTRICT",heightlimit

@@ -42,7 +42,7 @@ key,value
 "STATUS",proj_status
 "PLAN_DISTRICT",district
 "SUPE_DISTRICT",supdist
-"ZONING_SIM",zoning
+"ZONING_SIM",zoning_simplified
 "ZONING_DISTRICT",districtname
 "ZONING_GEN",zoning_gen
 "ZONING",zoning

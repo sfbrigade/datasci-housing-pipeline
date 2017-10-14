@@ -40,7 +40,7 @@ key,value
 "CentralSoMa",centralsoma
 "PLANDISTRICT",plandistrict
 "NEIGHBORHOOD",neighborhood
-"ZONING_SIM",zoning_sim
+"ZONING_SIM",zoning_simplified
 "ZONENAME",zonename
 "HEIGHT",height
 "SUPEDIST",supedist

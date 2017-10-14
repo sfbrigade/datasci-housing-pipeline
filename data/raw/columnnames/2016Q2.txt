@@ -40,7 +40,7 @@ key,value
 "PLAN_AREA",planarea
 "PLAN_DISTRICT",district
 "HEIGHT_DISTRICT",heightlimit
-"ZONING_SIM",zoning
+"ZONING_SIM",zoning_simplified
 "ZONING_DISTRICT",districtname
 "SUPE_DISTRICT",supdist
 "Location",location

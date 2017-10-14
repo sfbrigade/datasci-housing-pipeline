@@ -37,7 +37,7 @@ key,value
 "PLAN_DISTRICT",district
 "SUPE_DISTRICT",supdist
 "HEIGHT_DISTRICT",heightlimit
-"ZONING",zoning
+"ZONING",zoning_simplified
 "ZONING_DISTRICT",districtname
 "PLANNER",planner
 "LOCATION",location

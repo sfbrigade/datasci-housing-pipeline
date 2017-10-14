@@ -40,6 +40,6 @@ key,value
 "PLN_DISTRICT",district
 "PLN_AREA",planarea
 "HEIGHT",height
-"ZONING_SIM",zoning_sim
+"ZONING_SIM",zoning_simplified
 "ZONE_NAME",districtname
 "geography",location

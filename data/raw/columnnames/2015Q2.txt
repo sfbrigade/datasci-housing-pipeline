@@ -46,7 +46,7 @@ key,value
 "PLANAREA",planarea
 "PLNDISTRICT",plndistrict
 "NEIGHBORHOOD",neighborhood
-"ZONING_SIM",zoning_sim
+"ZONING_SIM",zoning_simplified
 "DISTRICTNAME",districtname
 "HEIGHT_LIMIT",height_lim
 "X",x

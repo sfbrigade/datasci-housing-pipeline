@@ -30,7 +30,7 @@ key,value
 "Entitlement",entitled
 "Alias",alias
 "ZONING",districtname
-"ZONING_SIMPLIFY",zoning_sim
+"ZONING_SIMPLIFY",zoning_simplified
 "HEIGHT",height
 "PLNNBRHOOD",neighborhood
 "PLNDISTRICT",district
