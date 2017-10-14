@@ -14,6 +14,7 @@ These DSWG members are contributors to this project, and how to get in touch wit
 
 | Name | Slack Handle |
 | ---|--- |
+| Brian Goggin | @bgoggin |
 | Jeff Quinn | @jfquinn |
 | Arash Aghevli | @arashaghevli |
 | Tyler Field | @tyler |
@@ -28,9 +29,9 @@ These DSWG members are contributors to this project, and how to get in touch wit
 
 ## Working Plan/Current Priorities
 
-1. Create a data model that can span several quarters, adjusting for the name mismatch (@jfquinn, @arashaghevli)
-2. Come up with detailed UI design (@caressalc27, @alwynalau)
-3. Analyze how long projects take for completion. Determine what relationship between project size and completion time is. (@juancarlos)
+1. Create a data model that can span several quarters, adjusting for the name mismatch (@brgoggin, @jfquinn, @arashaghevli)
+2. Analyze how long projects take for completion. Determine what relationship between project size and completion time is. (@brgoggin, @juancarlos)
+3. Come up with detailed UI design (@caressalc27, @alwynalau)—no longer working on this as of 10/13/2017
 
 ## Questions we want to answer
 
@@ -70,10 +71,21 @@ The pipeline [website](http://sf-planning.org/pipeline-report)
 
 See [data/README.MD](data/README.MD) for details about the data
 
-| dataset | api link |
+| dataset | source |
 | ---|--- |
+| [2009-Quarter-2] | [Internal to Planning Department]|
+| [2009-Quarter-3] | [Internal to Planning Department]|
+| [2010-Quarter-1] | [Internal to Planning Department]|
+| [2010-Quarter-2] | [Internal to Planning Department]|
+| [2010-Quarter-3] | [Internal to Planning Department]|
+| [2010-Quarter-4] | [Internal to Planning Department]|
+| [2011-Quarter-1] | [Internal to Planning Department]|
+| [2011-Quarter-2] | [Internal to Planning Department]|
+| [2011-Quarter-3] | [Internal to Planning Department]|
+| [2011-Quarter-4] | [Internal to Planning Department]|
 | [2012-Quarter-1](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2012-Quarter-1/v5p2-emnu) | [2012-Quarter-1 api](https://data.sfgov.org/resource/bi8h-tgxg.json) |
 | [2012-Quarter-2](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2012-Quarter-2/ugxk-ztb8) | [2012-Quarter-2 api](https://data.sfgov.org/resource/g6gj-usjb.json) |
+| [2012-Quarter-3] | [Internal to Planning Department]|
 | [2012-Quarter-4](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2012-Quarter-4/b2bw-u33d) | [2012-Quarter-4 api](https://data.sfgov.org/resource/fpzh-9ii5.json) |
 | [2013-Quarter-1](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2013-Quarter-1/bime-puj8) | [2013-Quarter-1 api](https://data.sfgov.org/resource/662u-bk2r.json) |
 | [2013-Quarter-2](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2013-Quarter-2/evrp-pcmc) | [2013-Quarter-2 api](https://data.sfgov.org/resource/ixti-hd8i.json) |

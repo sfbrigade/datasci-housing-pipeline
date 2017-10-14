@@ -8,13 +8,13 @@ key,value
 "Alias",alias
 "CASENO",caseno
 "DESCRIPT",descript
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PROPUSE",propuse
 "DBIDESC",dbidesc
 "UNITS",units
 "UNITSNET",unitsnet
-"AFFORDABLE",affordable
-"AFFORDABLENET",affordab_1
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
 "TOTAL_GSF",total_gsf
 "NET_GSF",net_gsf
 "CIE",cie
@@ -40,6 +40,6 @@ key,value
 "PLN_DISTRICT",district
 "PLN_AREA",planarea
 "HEIGHT",height
-"ZONING_SIM",zoning_sim
+"ZONING_SIM",zoning_simplified
 "ZONE_NAME",districtname
-"geography",geography
+"geography",location

@@ -18,12 +18,12 @@ key,value
 "Ret, Ent",ret_ent
 "Visitor",visitor
 "Planning ID",planning_id
-"DBI Permit ID",dbi_permit_id
+"DBI Permit ID",dbi_permit
 "Planning Filed",planning_filed
 "DBI Filed",dbi_filed
 "FirstFiled",firstfiled
 "LANDUSE",landuse
-"EntitlementStatus",entitlementstatus
+"EntitlementStatus",entitled
 "sort",sort
 "Net Added Units",net_added_units
 "Net Added SF",net_added_sf
@@ -44,3 +44,6 @@ key,value
 "CONTACTCITY",contactcity
 "CONTACTADD",contactadd
 "Location 1",location
+"Net Added Units",unitsnet
+
+

@@ -3,7 +3,7 @@ key,value
 "BESTDATE",best_date
 "NAMEADDR",address
 "CASENO",caseno
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PROPUSE",propuse
 "BLKLOT",apn
 "LANDUSE",landuse
@@ -27,17 +27,17 @@ key,value
 "PDRNET",pdrnet
 "RETNET",retnet
 "VISITNET",visitnet
-"Entitlement",entitlement
+"Entitlement",entitled
 "Alias",alias
 "ZONING",districtname
-"ZONING_SIMPLIFY",zoning_sim
+"ZONING_SIMPLIFY",zoning_simplified
 "HEIGHT",height
 "PLNNBRHOOD",neighborhood
 "PLNDISTRICT",district
 "SUPEDIST",supdist
 "SOURCE",source
 "PLANNER",planner
-"FILEDATE",filedate
+"FILEDATE",firstfiled
 "SPONSOR",sponsor
 "CONTACT",contact
 "CONTACTPH",contactph
@@ -45,4 +45,4 @@ key,value
 "DECDATE",decdate
 "ACTION",action
 "ACTDATE",actdate
-"GEOGRAPHY",geography
+"GEOGRAPHY",location

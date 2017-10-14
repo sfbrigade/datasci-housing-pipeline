@@ -4,7 +4,7 @@ key,value
 "BESTSTAT",best_stat
 "BESTDATE",best_date
 "CASENO",caseno
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PROPUSE",propuse
 "NEW_REHAB",new_rehab
 "Alias",alias
@@ -13,9 +13,9 @@ key,value
 "DBIDESC",dbidesc
 "UNITS",units
 "UNITSNET",unitsnet
-"AFFORDABLE",affordable
-"AFFORDABLENET",affordablenet
-"EntitlementStatus",entitlementstatus
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
+"EntitlementStatus",entitled
 "PARKING",parking
 "PARKINGNET",parkingnet
 "TOTAL_GSF",total_gsf
@@ -32,7 +32,7 @@ key,value
 "RETNET",retnet
 "VISIT",visit
 "VISITNET",visitnet
-"FILEDATE",filedate
+"FILEDATE",firstfiled
 "PLANNER",planner
 "SPONSOR",sponsor
 "CONTACT",contact
@@ -46,9 +46,9 @@ key,value
 "PLANAREA",planarea
 "PLNDISTRICT",plndistrict
 "NEIGHBORHOOD",neighborhood
-"ZONING_SIM",zoning_sim
+"ZONING_SIM",zoning_simplified
 "DISTRICTNAME",districtname
 "HEIGHT_LIMIT",height_lim
 "X",x
 "Y",y
-"geography",geography
+"geography",location

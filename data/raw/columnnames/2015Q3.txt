@@ -4,14 +4,14 @@ key,value
 "BESTDATE",best_date
 "Alias",alias
 "CASENO",caseno
-"BPAPPLNO",bpapplno
+"BPAPPLNO",dbi_permit
 "PLNDESC",plndesc
 "DBIDESC",dbidesc
 "PROPUSE",propuse
 "UNITS",units
 "UNITSNET",unitsnet
-"AFFORDABLE",affordable
-"AFFORDABLENET",affordablenet
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
 "AFFORDABLE_DEC",aff_dec
 "TOTAL_GSF",total_gsf
 "NET_GSF",net_gsf
@@ -40,7 +40,7 @@ key,value
 "CentralSoMa",centralsoma
 "PLANDISTRICT",plandistrict
 "NEIGHBORHOOD",neighborhood
-"ZONING_SIM",zoning_sim
+"ZONING_SIM",zoning_simplified
 "ZONENAME",zonename
 "HEIGHT",height
 "SUPEDIST",supedist

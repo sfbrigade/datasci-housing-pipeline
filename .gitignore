@@ -4,3 +4,7 @@ VE
 node_modules
 reports
 *.pyc
+*.shp
+*.prj
+*.dbf
+*.shx

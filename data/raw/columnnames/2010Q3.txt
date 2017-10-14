@@ -1,0 +1,46 @@
+key,value
+"ObjectID",objectid
+"Block Lot",apn
+"Planning ID",planning_id
+"DBI Permit",dbi_permit
+"Address",address
+"Planning Neighborhood",neighborhood
+"Best Stat",best_stat
+"Best Date",best_date
+"Units",units
+"Planning Project Description",planning_project_description
+"DBI Project Description",dbi_project_description
+"Zoning_Generalized",zoning_generalized
+"Zoning_Simplified",zoning_simplified
+"TAZ",taz
+"Total GSF (Commercial)",total_gsf_commercial
+"Office",office
+"Cult, Inst, Educ",cult_inst_educ
+"Medical",medical
+"Prod, Dist, Rep",prod_dist_rep
+"Ret, Ent",ret_ent
+"Visitor",visitor
+"Planning Filed",planning_filed
+"DBI Filed",dbi_filed
+"HEIGHTLIMIT",heightlimit
+"ZONING",zoning
+"FirstFiled",firstfiled
+"Longitude",x
+"Latitude",y
+"LANDUSE",landuse
+"EntitlementStatus",entitled
+"sort",sort
+"Net Added Units",net_added_units
+"Net Added SF",net_added_sf
+"Net Cult, Inst, Educ",net_cult_inst_educ
+"Net Medical",net_medical
+"Net Office",net_office
+"Net Prod, Dist, Rep",net_prod_dist_rep
+"Net Ret, Ent",net_ret_ent
+"Net Visitor",net_visitor
+"Sponsor Firm",sponsor_firm
+"Sponsor Name",sponsor_name
+"CONTACTPHONE",contactphone
+"FULLNAME",fullname
+"CONTACTCITY",contactcity
+"CONTACTADD",contactadd

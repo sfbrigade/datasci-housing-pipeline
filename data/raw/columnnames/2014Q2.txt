@@ -27,7 +27,7 @@ key,value
 "ObjectID",objectid
 "LANDUSE",landuse
 "sort",sort
-"Net Added Units",net_added_units
+"Net Added Units",unitsnet
 "Net Added SF",net_added_sf
 "Net Cult, Inst, Educ",net_cult_inst_educ
 "Net Medical",net_medical
@@ -36,9 +36,9 @@ key,value
 "Net Ret, Ent",net_ret_ent
 "Net Visitor",net_visitor
 "PlanningDistrictsCombo",planningdistrictscombo
-"AFFORDABLE",affordable
-"AFFORDABLENET",affordablenet
-"EntitlementStatus",entitlementstatus
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
+"EntitlementStatus",entitled
 "Sponsor Firm",sponsor_firm
 "Sponsor Name",sponsor_name
 "CONTACTPHONE",contactphone
