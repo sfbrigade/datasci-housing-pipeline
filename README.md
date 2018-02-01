@@ -2,30 +2,43 @@
 slack channel: `#datasci-housingreport`
 
 ## About
-This is a project of the [Data Science Working Group](https://github.com/sfbrigade/data-science-wg) at Code for San Francisco
+_This is a project of the [Data Science Working Group](https://github.com/sfbrigade/data-science-wg) at Code for San Francisco_
 
-[The original ask](https://github.com/sfbrigade/make-with-open-data/blob/master/quarterly-planning-reports.md), or how this project got started.
+This project started as a partnership with the SF Planning Department and a dataset of construction in the pipeline. 
 
-[Here is a past report that's a great overview of the how the data has been used in the past](http://sf-planning.org/sites/default/files/FileCenter/Documents/9338-pipelinereport_q3_2014.pdf)  
 
-[Paula Chiu](mailto:paula.chiu@sfgov.org) is our contact as SF Gov (she's part of our Slack group too)
+### SF Brigade Team
+_(Team, please keep your level of desired involvement up to date here)_
 
-These DSWG members are contributors to this project, and how to get in touch with us on [slack](http://c4a.me/cfsfslack):
+| Name | [Slack](http://c4a.me/cfsfslack) Handle | Role | [RACI](...) |
+| ---|---|---|---|
+| Clare Corthell | @clare | Lead, Product Manager | Responsible |
+| Brian Goggin | @bgoggin | - | - |
+| Jeff Quinn | @jfquinn |  - | - |
+| Arash Aghevli | @arashaghevli |  - | - |
+| Tyler Field | @tyler |  - | - |
+| Sanat Moningi | @sanat | DSWG Founder | Informed |
+| Earl Dos Santos | @earldossantos |  - | - |
+| Juan Carlos Collins | @juancarlos |  - | - |
+| Alwyna Lau | @alwynalau |  - | - |
+| Geoffrey Pay | @gpay |  - | - |
+| Angelique DeCastro | @angeliquedecastro |  - | - |
+| Caressa Cunningham | @caressalc27 |  - | - |
 
-| Name | Slack Handle |
-| ---|--- |
-| Brian Goggin | @bgoggin |
-| Jeff Quinn | @jfquinn |
-| Arash Aghevli | @arashaghevli |
-| Tyler Field | @tyler |
-| Sanat Moningi | @sanat |
-| Earl Dos Santos | @earldossantos |
-| Juan Carlos Collins | @juancarlos |
-| Alwyna Lau | @alwynalau |
-| Paula Chiu | @pchiu-sf |
-| Geoffrey Pay | @gpay |
-| Angelique DeCastro | @angeliquedecastro |
-| Caressa Cunningham | @caressalc27 |
+### Partners & Stakeholders
+
+| Entity | Name | Contact | Role | RACI |
+| ---|---|---|---|
+| SF Planning Department | [Paula Chiu](mailto:paula.chiu@sfgov.org) | paula.chiu@sfgov.org @pchiu-sf |  SF Planning Department | Informed |
+| Govt Data Portal | Jason |---|---| Informed |
+| Non-SF CfA Housing Projects |---|---|---| --|
+| SF Supervisors |---|---|---| --|
+| CA State Legislative Representatives |---|---|---| --|
+| Coalitional / Advocacy Organization |---|---|---| --|
+| San Francisco Residents |---|---|---| --|
+| Real Estate Developers |---|---|---| --|
+| Press / Journalists |---|---|---| --|
+
 
 ## Working Plan/Current Priorities
 
@@ -33,7 +46,18 @@ These DSWG members are contributors to this project, and how to get in touch wit
 2. Analyze how long projects take for completion. Determine what relationship between project size and completion time is. (@brgoggin, @juancarlos)
 3. Come up with detailed UI design (@caressalc27, @alwynalau)—no longer working on this as of 10/13/2017
 
-## Questions we want to answer
+
+## How do I access the data?
+
+See data/README.md for information about analyzing the data. The data is checked into the repository under `data/cleaned`, and you should not need to download it yourself for most purposes.
+
+## History of the Project
+
+Started in December 2015 by the SF Data Science Working Group, the project focused on integrating and exploring data, guided by opening questions of the [the original ask](https://github.com/sfbrigade/make-with-open-data/blob/master/quarterly-planning-reports.md).
+
+## ARCHIVE Questions we want to answer
+
+[Here is a report that's a great overview of the how the data has been used in the past](http://sf-planning.org/sites/default/files/FileCenter/Documents/9338-pipelinereport_q3_2014.pdf)
 
 The main question(s) we want to tackle with an interactive visualization would be the following. 
 - How long it takes a project to go from start to end.
@@ -58,10 +82,6 @@ Other Questions (From previous meeting):
   - Size of project vs speed of getting on market?
   - A way to gauge compliance with Nov 2016's Measure X
 
-
-## How do I access the data?
-
-See data/README.md for information about analyzing the data. The data is checked into the repository under `data/cleaned`, and you should not need to download it yourself for most purposes.
 
 ## Links
 The pipeline [dataset](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2015-Quarter-4/ra2x-jzmk)  
