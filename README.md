@@ -4,13 +4,13 @@ slack channel: `#datasci-housingreport`
 ## About
 _This is a project of the [Data Science Working Group](https://github.com/sfbrigade/data-science-wg) at Code for San Francisco_
 
-This project started as a partnership with the SF Planning Department and a dataset of construction in the pipeline. 
+This project started as a partnership with the SF Planning Department and a dataset of construction in the pipeline.
 
 
 ### SF Brigade Team
 _(Team, please keep your level of desired involvement up to date here)_
 
-| Name | [Slack](http://c4a.me/cfsfslack) Handle | Role | [RACI](...) |
+| Name | [Slack](http://c4a.me/cfsfslack) Handle | Role | [RACI](http://www.valuebasedmanagement.net/methods_raci.html) |
 | ---|---|---|---|
 | Clare Corthell | @clare | Lead, Product Manager | Responsible |
 | Brian Goggin | @bgoggin | - | - |
