@@ -92,13 +92,13 @@ The distribution of APNs by how many times they appear in the dataset is:
 Glossary
 --------
 
-`APN`: Assessor Parcel Number (blocklot, blklot)
-`BEST_STATE`: The state of the project at the time the record was submitted. Must be one of the values from the above `Project States` table
-`BEST_DATE`: The date the record was submitted, which means the date at which the project entered its current project state.
-`Entitlement Status`: 0 = Under Planning Review, -1 = Approved By Planning
-`MIPS`: Managerial, Information, Professional Services. (Same as Office?)
-`CIE`: Cultural, Institutional, Educational
-`PDR`: Production, Distribution, Repair
+|`APN`| Assessor Parcel Number (blocklot, blklot)|
+|`BEST_STATE`| The state of the project at the time the record was submitted. Must be one of the values from the above `Project States` table|
+|`BEST_DATE`| The date the record was submitted, which means the date at which the project entered its current project state.|
+|`Entitlement Status`| 0 = Under Planning Review, -1 = Approved By Planning|
+|`MIPS`| Managerial, Information, Professional Services. (Same as Office?)|
+|`CIE`| Cultural, Institutional, Educational|
+|`PDR`| Production, Distribution, Repair|
 
 
 Other Notes
@@ -124,3 +124,43 @@ APN, or parcel number, can often act a unique identified for a project, but some
 | 409 | Bayview      | APN 5336048 | 0           | PL FILED | 08/08/2013 | 1915 QUESADA AV |       | 2009       | 200701171858.0 | 2       | 1     | 1        | 0   | 0      |            |               | 0          | 0           | 0         | 0               | 0          | 0           | $400000.00 | 1 FAMILY DWELLING | 0         | 0       | 0   | 0      | 0   | 0      | 0    | 0       | 0   | 0      | 0   | 0      | 0     | 0        | 0       | 0          | 04/20/2009 | 1     | Construct two new three-story single-family homes on two vacant lots; 4,460 sf on Lot 48 and 6,020 sf on Lot 49, off-street parking for two vehicles (one on each lot); create access easement on City property. | TO ERECT 1 DWELLING UNIT 3 STORY NEW BUILDING      | EJARDINE | 0              | Bayview Hunters Point | South Bayshore | 40-X   | RH-1       | RESIDENTIAL- HOUSE, ONE FAMILY | SUPERVISORIAL DISTRICT 10 | (37.73539301820, -122.39559042300) |
 
 Thus the best primary key we can think of currently is the combination of (`APN`, `address`).
+
+----
+
+### Dataset Sources
+
+The pipeline [dataset](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2015-Quarter-4/ra2x-jzmk)  
+The pipeline [website](http://sf-planning.org/pipeline-report)  
+
+
+| dataset | source |
+| ---|--- |
+| [2009-Quarter-2] | [Internal to Planning Department]|
+| [2009-Quarter-3] | [Internal to Planning Department]|
+| [2010-Quarter-1] | [Internal to Planning Department]|
+| [2010-Quarter-2] | [Internal to Planning Department]|
+| [2010-Quarter-3] | [Internal to Planning Department]|
+| [2010-Quarter-4] | [Internal to Planning Department]|
+| [2011-Quarter-1] | [Internal to Planning Department]|
+| [2011-Quarter-2] | [Internal to Planning Department]|
+| [2011-Quarter-3] | [Internal to Planning Department]|
+| [2011-Quarter-4] | [Internal to Planning Department]|
+| [2012-Quarter-1](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2012-Quarter-1/v5p2-emnu) | [2012-Quarter-1 api](https://data.sfgov.org/resource/bi8h-tgxg.json) |
+| [2012-Quarter-2](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2012-Quarter-2/ugxk-ztb8) | [2012-Quarter-2 api](https://data.sfgov.org/resource/g6gj-usjb.json) |
+| [2012-Quarter-3] | [Internal to Planning Department]|
+| [2012-Quarter-4](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2012-Quarter-4/b2bw-u33d) | [2012-Quarter-4 api](https://data.sfgov.org/resource/fpzh-9ii5.json) |
+| [2013-Quarter-1](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2013-Quarter-1/bime-puj8) | [2013-Quarter-1 api](https://data.sfgov.org/resource/662u-bk2r.json) |
+| [2013-Quarter-2](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2013-Quarter-2/evrp-pcmc) | [2013-Quarter-2 api](https://data.sfgov.org/resource/ixti-hd8i.json) |
+| [2013-Quarter-3](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2013-Quarter-3/hxup-t2n6) | [2013-Quarter-3 api](https://data.sfgov.org/resource/h2ky-3rra.json) |
+| [2013-Quarter-4](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2013-Quarter-4/ep85-j8df) | [2013-Quarter-4 api](https://data.sfgov.org/resource/s42z-x9np.json) |
+| [2014-Quarter-1](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2014-Quarter-1/g383-7xmf) | [2014-Quarter-1 api](https://data.sfgov.org/resource/fq62-z4pc.json) |
+| [2014-Quarter-2](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2014-Quarter-2/fv2q-qaux) | [2014-Quarter-2 api](https://data.sfgov.org/resource/tkr2-mzci.json) |
+| [2014-Quarter-3](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2014-Quarter-3/n5ik-nmm3) | [2014-Quarter-3 api](https://data.sfgov.org/resource/9xqb-guwy.json) |
+| [2014-Quarter-4](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2014-Quarter-4/858q-nwrm) | [2014-Quarter-4 api](https://data.sfgov.org/resource/ia2z-a7eh.json) |
+| [2015-Quarter-1](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2015-Quarter-1/2cma-9y6y) | [2015-Quarter-1 api](https://data.sfgov.org/resource/auw5-vpae.json) |
+| [2015-Quarter-2](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2015-Quarter-2/w3e8-bxrm) | [2015-Quarter-2 api](https://data.sfgov.org/resource/b6nb-tyvq.json) |
+| [2015-Quarter-3](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2015-Quarter-3/apz9-dh7k) | [2015-Quarter-3 api](https://data.sfgov.org/resource/8qip-pyye.json) |
+| [2015-Quarter-4](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2015-Quarter-4/ra2x-jzmk) | [2015-Quarter-4 api](https://data.sfgov.org/resource/6jnk-ty34.json) |
+| [2016-Quarter-1](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2016-Quarter-1/dtz9-jkjt) | [2016-Quarter-1 api](https://data.sfgov.org/resource/6iid-qfaz.json) |
+| [2016-Quarter-2](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline-2016-Quarter-2/g5sr-9nhs) | [2016-Quarter-2 api](https://data.sfgov.org/resource/3n2r-nn4r.json) |
+
