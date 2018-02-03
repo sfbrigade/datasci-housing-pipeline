@@ -1,6 +1,6 @@
 # San Francisco Housing Pipeline Project
 
-### Having a shared interest with stakeholders in creating a more inclusive San Francisco through enabling accessible housing, we use Data Science to understand the facts and predict the potential impact of housing policy.
+### Having a shared interest with stakeholders in creating a more inclusive San Francisco through enabling accessible housing, we use Data Science to understand the facts and predict the potential impact of housing policy. We are not partisan or political.
 
 [Living Project Document](https://docs.google.com/document/d/1-kBd97J6tX17gB4WVUejF7qSUWsGA8oTzvvCUvntKh8/edit#)
 
