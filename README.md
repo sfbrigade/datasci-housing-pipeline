@@ -28,14 +28,20 @@ _(Team, please keep your level of desired involvement up to date here)_
 ### Partners & Stakeholders
 
 | Entity | Name | Contact | Role | RACI |
-| ---|---|---|---|
-| SF Planning Department | [Paula Chiu](mailto:paula.chiu@sfgov.org) | paula.chiu@sfgov.org @pchiu-sf |  SF Planning Department | Informed |
-| Govt Data Portal | Jason |---|---| Informed |
-| Non-SF CfA Housing Projects |---|---|---| --|
-| SF Supervisors |---|---|---| --|
+| ---|---|---|---| -- |
+| **SF Planning Department** | [Paula Chiu](mailto:paula.chiu@sfgov.org) | paula.chiu@sfgov.org @pchiu-sf |  SF Planning Department | Informed |
+| **Govt Data Portal** | Jason |---|---| Informed |
+| **SF Supervisors** |---|---|---| --|
+| SF Supervisor D5 | London Breed | London.Breed@sfgov.org | Legislature stakeholder | Informed |
+| SF Supervisor D8 | Jeff Sheehy | Jeff.Sheehy@sfgov.org | Legislature stakeholder | - |
+| SF Supervisor D9 | Hillary Ronen | Hillary.Ronen@sfgov.org | Legislature stakeholder | - |
+| **SF Mayor** |---|---|---|
+| Candidate for Mayor (6/2018) | London Breed | london@londonformayor.com | City Executive Stakeholder | Informed |
+| **CA State Legislative Representatives** |---|---|---| --|
 | CA State Legislative Representatives |---|---|---| --|
 | Coalitional / Advocacy Organization |---|---|---| --|
-| San Francisco Residents |---|---|---| --|
+| Non-SF CfA Housing Projects |---|---|---| --|
+| San Francisco Residents | *by survey* |---|---| --|
 | Real Estate Developers |---|---|---| --|
 | Press / Journalists |---|---|---| --|
 
