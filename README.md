@@ -1,7 +1,10 @@
 # sf-planning-pipeline-report
 slack channel: `#datasci-housingreport`
 
-## About
+[Living Project Document](https://docs.google.com/document/d/1-kBd97J6tX17gB4WVUejF7qSUWsGA8oTzvvCUvntKh8/edit#)
+
+## Purpose of the Housing Pipeline Project
+### Having a shared interest with stakeholders in creating a more inclusive San Francisco through enabling accessible housing, we use Data Science to understand the facts and predict the potential impact of housing policy.
 _This is a project of the [Data Science Working Group](https://github.com/sfbrigade/data-science-wg) at Code for San Francisco_
 
 This project started as a partnership with the SF Planning Department and a dataset of construction in the pipeline.
@@ -26,6 +29,8 @@ _(Team, please keep your level of desired involvement up to date here)_
 | Caressa Cunningham | @caressalc27 |  - | - |
 
 ### Partners & Stakeholders
+
+For a working doc and PM management of stakeholders, see the [working doc](https://docs.google.com/document/d/1-kBd97J6tX17gB4WVUejF7qSUWsGA8oTzvvCUvntKh8/edit#).
 
 | Entity | Name | Contact | Role | RACI |
 | ---|---|---|---| -- |
