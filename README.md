@@ -1,4 +1,4 @@
-# sf-planning-pipeline-report
+# San Francisco Housing Pipeline Project
 slack channel: `#datasci-housingreport`
 
 [Living Project Document](https://docs.google.com/document/d/1-kBd97J6tX17gB4WVUejF7qSUWsGA8oTzvvCUvntKh8/edit#)
@@ -30,7 +30,7 @@ _(Team, please keep your level of desired involvement up to date here)_
 
 ### Partners & Stakeholders
 
-For a working doc and PM management of stakeholders, see the [working doc](https://docs.google.com/document/d/1-kBd97J6tX17gB4WVUejF7qSUWsGA8oTzvvCUvntKh8/edit#).
+For PM management of stakeholders, see [Living Project Document](https://docs.google.com/document/d/1-kBd97J6tX17gB4WVUejF7qSUWsGA8oTzvvCUvntKh8/edit#).
 
 | Entity | Name | Contact | Role | RACI |
 | ---|---|---|---| -- |
