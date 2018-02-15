@@ -12,17 +12,21 @@ _(Team, please keep your level of desired involvement up to date here)_
 | Name | [Slack](http://c4a.me/cfsfslack) Handle | Role | [RACI](http://www.valuebasedmanagement.net/methods_raci.html) |
 | ---|---|---|---|
 | Clare Corthell | @clare | Lead, Product Manager | Responsible |
-| Brian Goggin | @bgoggin | - | - |
-| Jeff Quinn | @jfquinn |  - | - |
-| Arash Aghevli | @arashaghevli |  - | - |
-| Tyler Field | @tyler |  - | - |
+| Jason Kalmeida | @jasonkalmeida | ? | ? |
+| Vijai Narayanan | @VijaiNarayanan | ? | ? |
+| Rahele Tesfu | @? | Asso. Product Manager | ? |
+| Adam Szabunio | @? | Data Scientist | ? |
 | Sanat Moningi | @sanat | DSWG Founder | Informed |
-| Earl Dos Santos | @earldossantos |  - | - |
-| Juan Carlos Collins | @juancarlos |  - | - |
-| Alwyna Lau | @alwynalau |  - | - |
-| Geoffrey Pay | @gpay |  - | - |
-| Angelique DeCastro | @angeliquedecastro |  - | - |
-| Caressa Cunningham | @caressalc27 |  - | - |
+| Brian Goggin | @bgoggin | - | _inactive_ |
+| Jeff Quinn | @jfquinn |  - | _inactive_ |
+| Arash Aghevli | @aaghevli |  - | _inactive_ |
+| Tyler Field | @tyler |  - | _inactive_ |
+| Earl Dos Santos | @earldossantos |  - | _inactive_ |
+| Juan Carlos Collins | @juancarlos |  - | _inactive_ |
+| Alwyna Lau | @alwynalau |  - | _inactive_ |
+| Geoffrey Pay | @gpay |  - | _inactive_ |
+| Angelique DeCastro | @angeliquedecastro |  - | _inactive_ |
+| Caressa Cunningham | @caressalc27 |  - | _inactive_ |
 
 ### Partners & Stakeholders
 
