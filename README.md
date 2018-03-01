@@ -27,6 +27,7 @@ _(Team, please keep your level of desired involvement up to date here)_
 | Geoffrey Pay | @gpay |  - | _inactive_ |
 | Angelique DeCastro | @angeliquedecastro |  - | _inactive_ |
 | Caressa Cunningham | @caressalc27 |  - | _inactive_ |
+| Ehrik Aldana | @ehrik | - | active |
 
 ### Partners & Stakeholders
 
