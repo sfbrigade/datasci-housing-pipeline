@@ -23,7 +23,7 @@ _(Team, please keep your level of desired involvement up to date here)_
 | Tyler Field | @tyler |  - | _inactive_ |
 | Earl Dos Santos | @earldossantos |  - | _inactive_ |
 | Juan Carlos Collins | @juancarlos |  - | _inactive_ |
-| Alwyna Lau | @alwynalau |  - | _inactive_ |
+| Alwyna Lau | @alwynalau |  - | Active |
 | Geoffrey Pay | @gpay |  - | _inactive_ |
 | Angelique DeCastro | @angeliquedecastro |  - | _inactive_ |
 | Caressa Cunningham | @caressalc27 |  - | _inactive_ |
