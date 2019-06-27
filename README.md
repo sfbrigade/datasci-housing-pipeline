@@ -26,7 +26,7 @@ We focus on utilizing our distinct skillset of data science and the SF Planning 
 - Science is A-political -- While we do believe in an accessible San Francisco, we are not a policy advocate. Our role is to provide the most rigorous data analysis to define facts, and use sound statistical methods and scientific investigation to predict how those facts may shift given a policy change.
 - Correlation is not causation -- Hand-in-hand with being a-political is the responsibility to clearly articulate the findings and limitations of analysis. Most analysis and prediction will only be able to leverage correlative relationships, and will likely be unable to demonstrate causative relationships. Natural experiments that would give us this kind of increased conviction in causative factors are rare.
 - Equal Access to Facts -- Our work will be shared through blog format to be accessible to all stakeholders at the same time.
-- Open to Everyone -- We are an all-volunteer organization, and our team welcomes all people of all skill bases and backgrounds to join our team. There is always a way for you to contribute! 
+- Open to Everyone -- We are an all-volunteer organization, and our team welcomes all people of all skill bases and backgrounds to join our team. There is always a way for you to contribute!
 
 ## Needs of this project
 
@@ -59,32 +59,25 @@ Help us publicize our work and build a stronger community overall.
 2. Raw Data is being kept [here](./data/csv) within this repo.
 
     *If using offline data mention that and how they may obtain the data from the froup)*
-    
+
 3. Data processing/transformation scripts are being kept [here](./analysis)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
+4. Install dependencies using [Pipenv](https://docs.pipenv.org/en/latest/)
 
 ## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
+#### Team Leads (Contacts)
+
+- **[Shantanu Bala](https://github.com/shantanubala) - @Shantanu Bala**
+- **[Anders Engnell](https://github.com/DerzYerz) - @Anders Engnell**
+
 
 #### Other Members:
 
-|Name     |  Slack Handle   | 
+|Name     |  Slack Handle   |
 |---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+|[Andrew Roberts](https://https://github.com/ajroberts0417)| @Andrew Roberts        |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
+* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).
 * Our slack channel is `#datasci-projectname`
 * Feel free to contact team leads with any questions or if you are interested in contributing!
