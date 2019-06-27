@@ -4,16 +4,16 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-ipykernel = "*"
+ipykernel = "==5.*"
 
 [packages]
-appdirs = "*"
-numpy = "*"
-pandas = "*"
-pyparsing = "*"
-python-dateutil = "*"
+appdirs = "==1.*"
+numpy = "==1.*"
+pandas = "==0.*"
+pyparsing = "==2.*"
+python-dateutil = "==2.*"
 pytz = "*"
-six = "*"
+six = "==1.*"
 
 [requires]
 python_version = "3.7"
