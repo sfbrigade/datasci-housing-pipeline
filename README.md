@@ -57,9 +57,6 @@ Help us publicize our work and build a stronger community overall.
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](./data/csv) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
 3. Data processing/transformation scripts are being kept [here](./analysis)
 4. Install dependencies using [Pipenv](https://docs.pipenv.org/en/latest/)
 
