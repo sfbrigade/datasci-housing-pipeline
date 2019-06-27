@@ -59,6 +59,37 @@ Help us publicize our work and build a stronger community overall.
 2. Raw Data is being kept [here](./data/csv) within this repo.
 3. Data processing/transformation scripts are being kept [here](./analysis)
 4. Install dependencies using [Pipenv](https://docs.pipenv.org/en/latest/)
+5. Open the [Jupyter notebook](./analysis/summary_analysis_notebook.ipynb)
+
+### Setting Up Your Development Environment
+
+#### Step 1: Install Pipenv
+
+On macOS:
+
+```sh
+brew install pipenv
+```
+
+#### Step 2: Install Dependencies
+
+```sh
+pipenv install
+```
+
+#### Step 3: Enter The Development Shell
+
+```sh
+pipenv run python -m ipykernel install --user --name=`pipenv run basename '$VIRTUAL_ENV'`
+```
+
+#### Step 4: Open the Notebook
+
+Launch Jupyter and select `datasci-housing-pipeline kernel` in Jupyter.
+
+```sh
+jupyter notebook
+```
 
 ## Contributing DSWG Members
 
