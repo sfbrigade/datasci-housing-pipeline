@@ -14,6 +14,8 @@ pyparsing = "==2.*"
 python-dateutil = "==2.*"
 pytz = "*"
 six = "==1.*"
+jupyter = "*"
+django = "*"
 
 [requires]
 python_version = "3.7"
