@@ -7,6 +7,7 @@ verify_ssl = true
 ipykernel = "==5.*"
 flake8 = "*"
 black = "*"
+flake8-black = "*"
 
 [packages]
 appdirs = "==1.*"
