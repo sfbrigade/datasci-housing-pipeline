@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 ipykernel = "==5.*"
+flake8 = "*"
 
 [packages]
 appdirs = "==1.*"
