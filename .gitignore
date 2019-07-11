@@ -8,3 +8,4 @@ reports
 *.prj
 *.dbf
 *.shx
+.vscode
