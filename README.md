@@ -72,6 +72,11 @@ git clone git@github.com:sfbrigade/datasci-housing-pipeline.git
 ```
 for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 
+3. navigate into your newly created project folder
+```sh
+cd datasci-housing-pipeline
+```
+
 #### Step 2: Install Dependencies
 
 We use Pipenv for environment management, follow the installation guides below if you don't have it.
