@@ -53,43 +53,138 @@ Help us understand the policy strategies being discussed and work with the PMs o
 #### Marketing
 Help us publicize our work and build a stronger community overall.
 
+## The Repo
+
+1. Raw Data is being kept [here](./data/csv) within this repo.
+2. Data processing/transformation scripts are being kept [here](./analysis)
+3. The [Jupyter notebook](./analysis/summary_analysis_notebook.ipynb) contains prior analyses
+
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](./data/csv) within this repo.
-3. Data processing/transformation scripts are being kept [here](./analysis)
-4. Install dependencies using [Pipenv](https://docs.pipenv.org/en/latest/)
-5. Open the [Jupyter notebook](./analysis/summary_analysis_notebook.ipynb)
+### Quickstart
 
-### Setting Up Your Development Environment
-
-#### Step 1: Install Pipenv
-
-On macOS:
+#### Step 1: Clone the repo
+1. Navigate to a folder where you want the project folder to be located
+2. Clone the repo with the following command
 
 ```sh
-brew install pipenv
+git clone git@github.com:sfbrigade/datasci-housing-pipeline.git
 ```
+for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 
 #### Step 2: Install Dependencies
+
+We use Pipenv for environment management, follow the installation guides below if you don't have it.
 
 ```sh
 pipenv install
 ```
 
-#### Step 3: Enter The Development Shell
+#### Step 2: Enter The Development Shell
 
 ```sh
 pipenv run python -m ipykernel install --user --name=`pipenv run basename '$VIRTUAL_ENV'`
 ```
 
-#### Step 4: Open the Notebook
+#### Step 3: Open the Notebook
 
 Launch Jupyter and select `datasci-housing-pipeline kernel` in Jupyter.
 
 ```sh
 jupyter notebook
 ```
+
+### macOS
+
+#### Step 1: Ensure you have Python 3.7 installed
+
+Check your currently installed version of Python 3.
+
+```sh
+python3 --version
+```
+
+If you don't have Python version 3.7, the Pipfile will not complete installation. Install Python 3 using [Homebrew](https://brew.sh/):
+
+```sh
+brew install python3
+```
+Or, upgrade Python 3 from an earlier dot version (like 3.6) using [Homebrew](https://brew.sh/):
+```sh
+brew upgrade python3
+```
+
+#### Step 2: Install Pipenv using Homebrew
+
+Run this in your terminal:
+
+```sh
+brew install pipenv
+```
+
+**NOTE:** dependencies will only be available within the `pipenv` virtualenv. Enter the virtualenv with `pipenv shell`, or run a single command with `pipenv run my-cool-command`.
+
+#### Step 3: Install Postgres using Homebrew
+
+Run this in your terminal:
+
+```sh
+brew install postgresql
+```
+
+Postgres should start automatically. If you run into trouble, refer to [this guide](https://goonan.io/setting-up-postgresql-on-os-x-2/).
+
+### Windows
+
+**NOTE:** the windows section is out of date, as no engineers have installed the project
+on a windows machine yet.
+
+#### Suggestion: Install a console emulator running on ConEmu
+
+My personal recommendation is [Cmder](http://cmder.net/)
+
+#### Step 1: Install Chocolatey, a package manager for windows
+
+Install [chocolatey](https://chocolatey.org/install)
+
+#### Step 2: Ensure you have Python 3.7 installed
+
+Check your currently installed version of Python.
+```sh
+python --version
+```
+
+If you don't have Python version 3.7, install or upgrade to Python 3 using Chocolatey:
+```sh
+choco install python
+```
+
+#### Step 3: Install Pipenv using pip
+
+Python3 should install pip automatically, but check for updates with the following command:
+```sh
+python -m pip install -U pip
+```
+
+Now install pipenv with a User installation:
+```sh
+pip install --user pipenv
+```
+
+**NOTE:** If pipenv isn't available in your console after installing and running `refreshenv`
+you will need to add the user base's binary directory to your PATH. This is relatively simple, read the Yellow Box on [this tutorial page](https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html#virtualenvironments-ref)
+
+**NOTE 2:** dependencies will only be available within the `pipenv` virtualenv. Enter the virtualenv with `pipenv shell`, or run a single command with `pipenv run my-cool-command`.
+
+#### Step 4: Install Postgres using Chocolatey
+
+Postgres requires a password parameter, so run the following command, with your own password to be assigned to the postgres user:
+
+```sh
+choco install postgresql10 --params '/Password:YOURPASSWORDHERE' --params-global
+```
+
+Postgres should start automatically. If you run into trouble, refer to the [Postgres website](https://www.postgresql.org/download/windows/).
 
 ## Contributing DSWG Members
 
