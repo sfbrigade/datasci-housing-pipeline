@@ -81,8 +81,9 @@ cd datasci-housing-pipeline
 
 We use Pipenv for environment management, follow the installation guides below if you don't have it.
 
+Install all project and development dependencies:
 ```sh
-pipenv install
+pipenv install --dev
 ```
 
 #### Step 2: Enter The Development Shell
