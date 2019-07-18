@@ -94,6 +94,8 @@ Launch Jupyter and select `datasci-housing-pipeline kernel` in Jupyter.
 jupyter notebook
 ```
 
+## Installation Guide
+
 ### macOS
 
 #### Step 1: Ensure you have Python 3.7 installed
