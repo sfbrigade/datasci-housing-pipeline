@@ -144,9 +144,6 @@ Postgres should start automatically. If you run into trouble, refer to [this gui
 
 ### Windows
 
-**NOTE:** the windows section is out of date, as no engineers have installed the project
-on a windows machine yet.
-
 #### Suggestion: Install a console emulator running on ConEmu
 
 My personal recommendation is [Cmder](http://cmder.net/)
@@ -200,6 +197,7 @@ Postgres should start automatically. If you run into trouble, refer to the [Post
 
 - **[Shantanu Bala](https://github.com/shantanubala) - @Shantanu Bala**
 - **[Anders Engnell](https://github.com/DerzYerz) - @Anders Engnell**
+- **[Andrew Roberts](https://github.com/ajroberts0417) - @Andrew Roberts**
 
 
 #### Other Members:
