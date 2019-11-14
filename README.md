@@ -196,7 +196,7 @@ Postgres should start automatically. If you run into trouble, refer to the [Post
 ## Contributing DSWG Members
 
 #### Team Leads (Contacts)
-- **[Rocio Ng]() = @rocio
+- **[Rocio Ng](https://github.com/rociosng) = @rocio**
 
 ##### Previous Leads:
 - **[Shantanu Bala](https://github.com/shantanubala) - @Shantanu Bala**
