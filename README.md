@@ -7,7 +7,7 @@ This project is a part of the [Data Science Working Group](http://datascience.co
 
 The purpose of this project is to analyze the impact of zoning laws on the development of housing in San Francisco. We use datasets provided by the city of San Francisco to analyze the initiation, progress, and completion of entitlements for the construction of housing. We want to empower policymakers and citizens with the facts and data that help explain the potential impact of housing policy decisions.
 
-See our [Doc](https://docs.google.com/document/d/1giQrnMOPvQSi2tEBPxd4bxzFKbH9m3MZQnB2vrwD4tI/edit) for info an specific objectives for the project.
+See our [Doc](https://docs.google.com/document/d/1giQrnMOPvQSi2tEBPxd4bxzFKbH9m3MZQnB2vrwD4tI/edit) for more info and specific objectives for the project.
 
 ### Methods Used
 * Inferential Statistics
