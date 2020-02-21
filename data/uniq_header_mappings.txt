@@ -1,0 +1,272 @@
+key,value
+"ACTDATE",actdate
+"ACTION",action
+"ACTION_SEQ",action_seq
+"AFF",aff
+"AFFNET",affnet
+"AFFORDABLE",aff
+"AFFORDABLENET",affnet
+"AFFORDABLENET",affnetkey,value
+"AFFORDABLE_DEC",aff_dec
+"AFF_UNITS",aff
+"ALIAS",alias
+"APN",apn
+"APPLICANT",sponsor_name
+"Address",address
+"Alias",alias
+"BESTDATE",best_date
+"BESTSTAT GROUP",beststat_group
+"BESTSTAT",best_stat
+"BLKLOT",apn
+"BLOCK",block
+"BPAPPLNO",dbi_permit
+"BP_APPLNO",dbi_permit
+"BP_DESC",dbidesc
+"Best Date",best_date
+"Best Stat",best_stat
+"Block Lot",apn
+"CASENO",caseno
+"CIE",cie
+"CIE",cult_inst_educ
+"CIENET",cienet
+"CIENET",net_cult_inst_educ
+"CONTACT",contact
+"CONTACT",fullname
+"CONTACTADD",contactadd
+"CONTACTADD",contactaddkey,value
+"CONTACTCITY",contactcity
+"CONTACTNAME",contact
+"CONTACTPH",contactph
+"CONTACTPH",contactphone
+"CONTACTPHONE",contactph
+"CONTACTPHONE",contactphone
+"COST",cost
+"CentralSoMa",centralsoma
+"Cult, Inst, Educ",cult_inst_educ
+"DA",da
+"DBI Filed",dbi_filed
+"DBI Permit ID",dbi_permit
+"DBI Permit",dbi_permit
+"DBI Project Description",dbi_project_description
+"DBIDESC",dbidesc
+"DBI_ACTDATE",dbi_actdate
+"DBI_ACTION",dbi_action
+"DECDATE",decdate
+"DECISION",decision
+"DESCRIPT",descript
+"DISTRICTNAME",districtname
+"ENTITLEMENT",entitled
+"EntitledStatus",entitled
+"Entitlement",entitled
+"EntitlementStatus",entitled
+"EntitlementStatus",entitlementstatus
+"Expr1022",expr1022
+"Expr1023",expr1023
+"Expr1028",expr1028
+"Expr1028",expr2018
+"FILEDATE",firstfiled
+"FULLNAME",fullname
+"FirstFiled",firstfiled
+"GEOGRAPHY",location
+"Geography",location
+"HEIGHT",height
+"HEIGHTLIMIT",heightlimit
+"HEIGHTLIMIT",heightlimitkey,value
+"HEIGHT_DISTRICT",heightlimit
+"HEIGHT_LIMIT",height_lim
+"HeightNum",heightnum
+"LANDUSE",landuse
+"LOCATION",locationkey,value
+"LOT",lot
+"Latitude",y
+"Location 1",location
+"Location",location
+"Location",locationkey,value
+"Longitude",x
+"MED",med
+"MED",medical
+"MEDNET",mednet
+"MEDNET",net_medical
+"MIPS",mips
+"MIPS",office
+"MIPSNET",mipsnet
+"MIPSNET",net_office
+"Medical",medical
+"NAMEADDR",address
+"NEIGHBORHOOD",neighborhood
+"NET_AFF_UNITS",affnet
+"NET_CIE",net_cult_inst_educ
+"NET_GSF",net_gsf
+"NET_MED",net_medical
+"NET_MIPS",net_office
+"NET_PDR",net_prod_dist_rep
+"NET_RET",net_ret_ent
+"NET_UNITS",unitsnet
+"NET_VISIT",net_visitor
+"NEW_REHAB",new_rehab
+"Net Added SF",net_added_sf
+"Net Added SF",net_added_sfkey,value
+"Net Added Units",net_added_units
+"Net Added Units",unitsnet
+"Net Cult, Inst, Educ",net_cult_inst_educ
+"Net GSF (Commercial)",net_gsf
+"Net MIPS",net_office
+"Net Medical",net_medical
+"Net Office",net_office
+"Net Prod, Dist, Rep",net_prod_dist_rep
+"Net Ret, Ent",net_ret_ent
+"Net Visitor",net_visitor
+"ObjectID",objectid
+"Office",office
+"PARKING",parking
+"PARKINGNET",parkingnet
+"PDA",pda
+"PDR",pdr
+"PDR",prod_dist_rep
+"PDRNET",net_prod_dist_rep
+"PDRNET",pdrnet
+"PHASE",phase
+"PLANAREA",planarea
+"PLANDISTRICT",plandistrict
+"PLANNER",planner
+"PLAN_AREA",planarea
+"PLAN_DISTRICT",district
+"PLNDESC",plndesc
+"PLNDISTRICT",district
+"PLNDISTRICT",plndistrict
+"PLNNBRHOOD",neighborhood
+"PLN_AREA",planarea
+"PLN_CASENO",caseno
+"PLN_DESC",plndesc
+"PLN_DISTRICT",district
+"PLN_REVIEW",pln_review
+"PLN_REVIEWDATE",pln_reviewdate
+"PROJECT_TYPE",proj_type
+"PROPUSE",propuse
+"PUBLICREALM",publicrealm
+"Planning Filed",planning_filed
+"Planning ID",planning_id
+"Planning Neighborhood",neighborhood
+"Planning Project Description",planning_project_description
+"PlanningDistrictsCombo",planningdistrictscombo
+"Prod, Dist, Rep",prod_dist_rep
+"RET",ret
+"RET",ret_ent
+"RETNET",retnet
+"Residential",residentialkey,value
+"Ret, Ent",ret_ent
+"SECTION415",section415
+"SOURCE",source
+"RETNET",net_ret_ent
+"SPONSOR",sponsor
+"SPONSOR",sponsor_name
+"SP_CONTACT",fullname
+"SP_CONTACTPH",contactphone
+"STATUS",proj_status
+"SUPDIST",supdist
+"SUPEDIST",supdist
+"SUPEDIST",supedist
+"SUPE_DIST",supdist
+"SUPE_DISTRICT",supdist
+"SiteArea",sitearea
+"Sponsor Firm",sponsor_firm
+"Sponsor Name",sponsor_name
+"StandardAddress",standardaddress
+"StatusGroup",statusgroup
+"SupeDistrict",dname
+"TAZ",taz
+"TENURE_TYPE",tenure_type
+"TOTAL NET GSF",net_gsf
+"TOTAL_GSF",total_gsf
+"TempSelect",tempselect
+"Total GSF (Commercial)",total_gsf_commercial
+"TotalSqftEstim",totalsqftestim
+"Traffic Analysis Zone",traffic_analysis_zone
+"UNITS",units
+"UNITSNET",unitsnet
+"Units Net",unitsnet
+"Units",units
+"VISIT",visit
+"VISIT",visitor
+"VISITNET",net_visitor
+"VISITNET",visitnet
+"Visitor",visitor
+"X",x
+"Y",y
+"ZONENAME",zonename
+"ZONE_NAME",districtname
+"ZONING",districtname
+"ZONING",zoning
+"ZONING",zoning_simplified
+"ZONINGDISTRICTNAME",zoningdistrictname
+"ZONING_DISTRICT",districtname
+"ZONING_GEN",zoning_gen
+"ZONING_SIM",zoning_simplified
+"ZONING_SIMPLIFY",zoning_simplified
+"Zoning Generalized",zoning_generalized
+"Zoning Simplified",zoning_simplified
+"Zoning_Generalized",zoning_generalized
+"Zoning_Simplified",zoning_simplified
+"alias",alias
+"block lot",apn
+"block",block
+"building_type_id",building_type
+"building_type_id",building_type_id
+"cult, inst, educ",cult_inst_educ
+"dbi filed",dbi_filed
+"dbi permit",dbi_permit
+"dbi project description",dbi_project_description
+"entitled",entitled
+"geography",location
+"heightlimit",heightlimit
+"landuse",landuse
+"lot",lot
+"medical",medical
+"net added sf",net_added_sf
+"net added units",net_added_units
+"net added units",unitsnet
+"net cult, inst, educ",net_cult_inst_educ
+"net medical",net_medical
+"net office",net_office
+"net prod, dist, rep",net_prod_dist_rep
+"net ret, ent",net_ret_ent
+"net visitor",net_visitor
+"newtaz",taz
+"office",office
+"planning filed",planning_filed
+"planning neighborhood",neighborhood
+"planning project description",planning_project_description
+"prod, dist, rep",prod_dist_rep
+"project date",best_date
+"project status",best_stat
+"ret, ent",ret_ent
+"sitearea",sitearea
+"sizecat",sizecat
+"sort",sort
+"source",source
+"status group",status_group
+"supdist",supdist
+"taz",taz
+"total gsf (commercial)",total_gsf_commercial
+"units",units
+"visitor",visitor
+"zoning",zoning
+"zoning_gen",zoning_generalized
+"zoning_generalized",zoning_generalized
+"Entitled",entitled
+"AFF_TARGET",aff_target
+"EXISTUSE",existuse
+"CIE_EXIST",cie_exist
+"MED_EXIST",med_exist
+"MIPS_EXIST",mips_exist
+"PDR_EXIST",pdr_exist
+"RET_EXIST",ret_exist
+"VISIT_EXIST",visit_exist
+"NEWNEIGHBO",newneighbo
+"PLNGAREA",plngarea
+"RESTAURANT",restaurant
+"RESTAURANTNET",restaurantnet
+"HOTEL_ROOM_EXIST",hotel_room_exist
+"HOTEL_ROOM_PROP",hotel_room_prop
+"HOTEL_ROOM_NET",hotel_room_net
+"supervisor",supervisor
