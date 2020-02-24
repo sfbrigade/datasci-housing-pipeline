@@ -1,5 +1,3 @@
-import argparse
-
 ##Create a dictionary from the uniq_header_mappings from previous files
 def create_dict_object_from_uniq_headers(filename):
     with open(filename, "r") as fd:
