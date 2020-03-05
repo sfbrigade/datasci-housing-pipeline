@@ -40,7 +40,9 @@ def create_new_unique_header_mappings(headers, unique_headers_dict, filename):
 def create_new_columnnames_filename(filename):
     # File names are currently in this format SF_Development_Pipeline_2017_Q1.csv
     # parse filename and create a new filename to this format YYYYQ#.txt
-    new_file_arr = filename.split(".")[0].split("_")[-2:]
+    
+    new_file_arr = filename.split(".")[0].split("_")
+    new_file_arr = new_file_arr[-3] + new_file_arr[-2][0] + new_file_arr[-1]
     return ''.join(new_file_arr) + '.txt'
 
 
